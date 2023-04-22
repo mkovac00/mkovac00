@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="100"/>
 </div>
 
@@ -16,7 +16,7 @@
 
 - :zap: In my free time, I watch movies, read books, hang out with friends, work out etc.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-kova%C4%8D-4b9462242/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mario-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-kova%C4%8D-4b9462242/)
 
 ---
 
